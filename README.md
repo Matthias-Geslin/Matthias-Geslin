@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/matth_moi_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matth_moi_ca" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matthias-geslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthias-geslin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10829136/matthias-geslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="matthias-geslin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
