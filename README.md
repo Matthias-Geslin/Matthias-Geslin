@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **VueJS**
 
-- 👨‍💻 All of my projects are available at [matthmoiça.fr](matthmoiça.fr)
+- 👨‍💻 All of my projects are available at matthmoiça.fr
 
 - 📫 How to reach me **contact.matthmoica@gmail.com**
 
